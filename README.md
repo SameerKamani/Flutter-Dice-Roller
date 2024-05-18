@@ -23,5 +23,3 @@ flutter run
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.
