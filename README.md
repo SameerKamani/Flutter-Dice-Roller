@@ -15,6 +15,13 @@ git clone https://github.com/your-username/flutter-dice-roller.git
 cd flutter-dice-roller
 flutter run
 ```
+##images
+![image](https://github.com/SameerKamani/Flutter-Dice-Roller/assets/155903275/657f906f-1b56-40d2-9881-b6ea2ef2a9ef)
+
+
+![image](https://github.com/SameerKamani/Flutter-Dice-Roller/assets/155903275/3b03b7da-a58f-4515-953f-a2631ee2a9f0)
+
+
 
 ## Usage
 - Tap the "Roll" button to roll the dice and observe the outcome displayed on the screen.
